@@ -1,0 +1,1 @@
+import{O as e,s as t,w as n}from"./index-Cf8fsjW6.js";var r=e(),i=n();function a(){let e=(0,r.c)(1),n;return e[0]===Symbol.for(`react.memo_cache_sentinel`)?(n=(0,i.jsx)(t,{children:(0,i.jsx)(`main`,{children:(0,i.jsx)(`p`,{children:`hello i guess`})})}),e[0]=n):n=e[0],n}export{a as default};

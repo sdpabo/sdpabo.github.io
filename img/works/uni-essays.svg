@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 480" role="img" aria-labelledby="title desc">
+  <title id="title">University essays folder</title>
+  <desc id="desc">A handmade folder with papers inside.</desc>
+  <rect width="640" height="480" fill="#FBF2E6"/>
+  <path d="M92 158h178l34 42h244v198H92z" fill="#CCB79E" stroke="#442a0c" stroke-width="8" stroke-linejoin="round"/>
+  <path d="M116 118h170l34 42h204v54H116z" fill="#fff" stroke="#442a0c" stroke-width="8" stroke-linejoin="round"/>
+  <g transform="rotate(-5 310 260)">
+    <rect x="170" y="176" width="290" height="198" fill="#fff" stroke="#442a0c" stroke-width="7"/>
+    <path d="M206 226h210M206 266h190M206 306h160" stroke="#CCB79E" stroke-width="10" stroke-linecap="round"/>
+    <path d="M204 348h92" stroke="#cf0c0c" stroke-width="8" stroke-linecap="round"/>
+  </g>
+  <path d="M90 210h458v188H92z" fill="#CCB79E" stroke="#442a0c" stroke-width="8" stroke-linejoin="round"/>
+  <path d="M138 248h140" stroke="#442a0c" stroke-width="8" stroke-linecap="round"/>
+  <path d="M138 280h96" stroke="#442a0c" stroke-width="8" stroke-linecap="round"/>
+  <circle cx="512" cy="346" r="34" fill="#cf0c0c" stroke="#442a0c" stroke-width="7"/>
+  <path d="M492 348l14 14 28-34" fill="none" stroke="#fff" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
