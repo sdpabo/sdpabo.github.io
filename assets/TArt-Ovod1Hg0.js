@@ -1,1 +1,0 @@
-import{O as e,d as t,s as n,w as r}from"./index-Cf8fsjW6.js";import{i,n as a}from"./artGalleryConfigs-PWhxufRC.js";var o=e(),s=r();function c(){let e=(0,o.c)(1),r;return e[0]===Symbol.for(`react.memo_cache_sentinel`)?(r=(0,s.jsx)(n,{className:a.pageClassName,children:(0,s.jsx)(`main`,{children:(0,s.jsx)(t,{config:a,items:i})})}),e[0]=r):r=e[0],r}export{c as default};
